@@ -17,5 +17,5 @@ I like to solve complex problems with (hopefully) simple solutions.
 
 ### Certifications
 
-<img src="https://github.com/ruicasaisalves/ruicasaisalves.github.io/blob/master/assets/img/dataanalyst.png" width="150" height="150"><img src="https://github.com/ruicasaisalves/ruicasaisalves.github.io/blob/master/assets/img/datafundamentals.png" width="150" height="150">
+<img src="dataanalyst.png" width="150" height="150"><img src="datafundamentals.png" width="150" height="150">
 
