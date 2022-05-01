@@ -17,5 +17,5 @@ I like to solve complex problems with (hopefully) simple solutions.
 
 ### Certifications
 
-<img src="assets/img/dataanalyst.png" width="150" height="150">
+<img src="assets/img/dataanalyst.png" width="150" height="150"><img src="assets/img/datafundamentals.png" width="150" height="150">
 
